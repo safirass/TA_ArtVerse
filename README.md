@@ -1,4 +1,4 @@
-# artverse
+# ArtVerse
 
 A new Flutter project.
 

@@ -1,16 +1,26 @@
 # ArtVerse
 
-A new Flutter project.
+**Menyajikan Dunia Seni Dalam Genggaman.**
+ArtVerese adalah aplikasi sederhana yang menyajikan karya seni di seluruh dunia. Aplikasi ini dikembangkan sebagai **Tugas Akhir Praktikum Pemrograman Perangkat Bergerak** 2024
+Aplikasi ini menggunakan API milik Art Institute of Chicago (https://api.artic.edu/) untuk menampilkan data karya seninya.
 
-## Getting Started
+## Fitur
+Aplikasi ini memiliki fitur utama sebagai berikut:
+**Eksplorasi Seni: Jelajahi koleksi seni dengan gambar, sekaligus detail lebih lanjut terkait karya seni**
+**Favorite: Menambahkan karya seni ke favorite**
+**My Collection: Berisi karya seni milik pribadi (pengembang)**
 
-This project is a starting point for a Flutter application.
+## Teknologi yang digunakan
+Flutter: Framework utama untuk membangun aplikasi.
+Dart: Bahasa pemrograman yang digunakan.
+Pustaka Utama:
+http: Untuk koneksi API.
+provider: Untuk manajemen state.
+cached_network_image: Untuk caching gambar.
 
-A few resources to get you started if this is your first Flutter project:
+## Pengembang
+Nama: Safira Septiandika Salsabila
+NIM: 21120122140147
+E-mail: safirass@students.undip.ac.id
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
